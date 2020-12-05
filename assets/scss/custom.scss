@@ -1,23 +1,29 @@
 /* General Custom Styles */
 
 blockquote {
-    color: black;
-    font-size: 80%;
+    font-size: 95%;
+    border-left: none;
 }
 
 /* Case comment container */
 
 .comment, .comment li, .comment p {
-    color: rebeccapurple;
-    font-size: 16px;
+    color: #0044cc;
     border: 1px;
 }
 
 .comment {
+    font-family: 'Lato';
     border-style: solid;
-    border-color: rebeccapurple;
+    border-color: #0044cc;
     padding: 10px;
     margin-bottom: 10px;
+    background: #f6f5ee;
+    padding: 10px;
+}
+
+.comment p {
+    margin-top: 10px;
 }
 
 details > summary {
@@ -47,7 +53,7 @@ details > summary {
   margin-left:15px; /* and add a small left margin */
   
   /* basic styles */
-  width:200px;
+  width:300px;
   padding:10px;
   border-radius:10px;
   background:#000;
@@ -60,4 +66,24 @@ details > summary {
 
 .tooltip:hover:before {
   display:block;
+}
+
+/*Custom tweaks for quiz shotcode to make it work with academic -- see /layouts/shortcodes/quiz.html*/
+
+fieldset {
+    border: solid;
+} 
+
+legend {
+    width:auto;
+}
+
+/* Additional styling for quizes */
+
+.quiz label {
+    margin-left: 20px;  
+}
+
+h2#quiz-header {
+    font-size: 1.3em;
 }
