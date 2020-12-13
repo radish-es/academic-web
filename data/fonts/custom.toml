@@ -2,10 +2,10 @@
 name = "custom"
 
 # Optional Google font URL
-google_fonts = "Archivo+Black|Cardo:400,700|Lato:200,300"
+google_fonts = "Archivo+Black|Cardo:400,700|Lato:200,300|Paytone+One|Jost:200,300,400,500,600,700,800,900"
 
 # Font families
-heading_font = "Archivo Black"
+heading_font = "Jost"
 body_font = "Cardo"
 nav_font = "Cardo"
 mono_font = "Cardo"

@@ -8,18 +8,19 @@ blockquote {
 /* Case comment container */
 
 .comment, .comment li, .comment p {
-    color: #0044cc;
     border: 1px;
 }
 
 .comment {
-    font-family: 'Lato';
+    font-family: 'Jost';
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 1.4em;
     border-style: solid;
-    border-color: #0044cc;
-    padding: 10px;
+    padding: 5px;
+    padding-left: 10px;
     margin-bottom: 10px;
-    background: #f6f5ee;
-    padding: 10px;
+    background: none;
 }
 
 .comment p {
@@ -53,7 +54,7 @@ details > summary {
   margin-left:15px; /* and add a small left margin */
   
   /* basic styles */
-  width:300px;
+  width:200px;
   padding:10px;
   border-radius:10px;
   background:#000;
