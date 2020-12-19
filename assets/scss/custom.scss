@@ -3,6 +3,9 @@
 blockquote {
     font-size: 95%;
     border-left: none;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    padding-top: 0;
 }
 
 /* Case comment container */
@@ -15,21 +18,27 @@ blockquote {
     font-family: 'Jost';
     font-weight: 300;
     font-size: 0.9em;
-    line-height: 1.4em;
+    line-height: 1.5em;
     border-style: solid;
-    padding: 5px;
+    padding: 8px;
     padding-left: 10px;
     margin-bottom: 10px;
     background: none;
+    color: #0044cc;
 }
 
 .comment p {
-    margin-top: 10px;
+    margin-top: 10px;   
+}
+
+.comment h4 {
+    display: inline;
+    color: #0044cc;
+    font-weight: 300;
 }
 
 details > summary {
     cursor: pointer;
-    font-weight: 500;
 }
 
 /* Tooltip container */
@@ -88,3 +97,17 @@ legend {
 h2#quiz-header {
     font-size: 1.3em;
 }
+
+/* For colour-coding sections of text */
+
+#red, #red blockquote, #red .comment, #red .comment h4 {color:#800000;}
+
+#orange, #orange blockquote, #orange .comment, #orange .comment h4 {color:#e67300;}
+
+#green, #green blockquote, #green .comment, #green .comment h4 {color:#006600;}
+
+#purple, #purple blockquote, #purple .comment, #purple .comment h4 {color:#660066;}
+
+#lightpurple, #lightpurple blockquote, #lightpurple .comment, #lightpurple .comment h4 {color:#990099;}
+
+
