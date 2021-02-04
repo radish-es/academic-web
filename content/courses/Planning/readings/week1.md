@@ -1,107 +1,41 @@
 ---
-title: "Week 2 - Analyzing (Common Law) Legal Arguments"
-linktitle: "Week 2"
+title: "Week 1 - Introduction to the Course"
+linktitle: "Week 1"
 type: book
-date: "2021-02-03"
-weight: 3
+date: "2020-12-19"
+weight: 2
 ---
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week2" target="_blank" rel="noopener">SLIDES</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week1" target="_blank" rel="noopener">SLIDES</a>
 
-## The Structure of Common Law Arugment ##
+## Course Overview ##
 
-At the end of Week 1, I asked you to consider the *similarities* in the judges' arguments in *Harrison v Carswell*, rather than focus only on their disagreements. This week, we delve into those similarities in order to see how the deeper patterns of common law argument structure and constrain how judges and other legal actors think, write and speak. 
+Before you read anything else this week, please read carefully through the [Course Syllabus](../../admin/syllabus).
 
-The key point for the week is this: **legal arguments are highly patterned, and the structure of legal arguments — though not necessarily the outcomes of legal arguments — is highly predictable**. These patterns of argument recur again and again in the cases we will read this year. Becoming proficient in making legal arguments means being able to recognize and make use of these patterns.
+The overall goal this course is to help you become proficient in analyzing legal arguments in their legal-historical context.
 
-The patterns I am talking about here occur at two different levels. One level is the specific forms of argument and counter-argument we commonly see in all judicial decisions (e.g., "the plaintiff has a right to do X" vs "these facts justify a limitation on plaintiff's right to do X in the circumstances"). At another level are the broader movements in legal thought that determine which forms of argument and counter-argument are more likely to be seen as persuasive. 
+## Our First Case, and How to Read It ##
 
-A good way to think about all this is by analogy to language. Learning to speak a new language requires you to learn the whole new set of words that comprise this language—i.e., its vocabulary. But to learn this new language, you need to learn not only its vocabulary, but also its grammatical structure—i.e., how the words fit together to form coherent thoughts. 
+The first case we’ll read in this course — the Supreme Court of Canada’s decision in *Harrison v Carswell* — is about a labour dispute at a shopping mall in Winnipeg in the mid-1970s. That setting may not strike you as obviously important or exciting, but *Harrison* is arguably one of the most signifiant decisions ever issued by the Supreme Court for what it can tell us about the central problems and debates in property law, and — maybe more important still — about *how* judges and lawyers engage in those debates using the patterns and practices of legal argument.
 
-The recurring forms of legal argument and counter-argument we will study — what we'll call "argument bites" — are the basic units of common law vocabulary. You will develop a list or lexicon on these argument bites and learn how to use them to analyze and make legal arguments. These argument bites are our focus in Unit 1 (weeks 1 to 3). 
+There are several layers here that you’ll need to peel back in order to fully understand *Harrison*. We will do this one step at a time, and I will ask you to read the case more than once over the next few weeks. To start, watch the short screencast below. This will introduce you to the case and demonstrate a few strategies to help you quickly grasp the basics of the case before you delve more deeply into the judges’ reasons. 
 
-Next, in Unit 2, we will start to uncover the deeper "grammatical" structure of common law property by studying how changing ideas about the market and the state influence and constrain the legal vocabulary of judges and lawyers during different historical eras. But for now, you can set aside this concept of legal grammar and focus on the new vocabulary you need to learn. 
+[Record screencase]
 
-### Argument Bites and Argument Types
-
-To reiterate: the basic units of legal argument in common law property are limited to a small number of stereotypical "argument bites" that always come together in opposing pairs that we call "legal arguments" (argument bite and counter-argument bite). Our task this week is to describe the legal argument types that you'll encounter most frequently in property law and then to practice identifying these argument types in judicial decisions.[^kennedy1991]
-
-Here is a list of the argument types we will be working with this week, followed by a brief description of each:
-
-- Denial of Premise 
-
-- Symmetrical Opposition
-
-- Counter-Theory
-
-- Mediation
-
-#### Denial of Premise
-
-Denying the premise of an opposing argument bite is an attempt to undermine the factual or normative basis of that opposing bite. Denying a factual premise might look something like this:
-
-> Plaintiff: I have a right to exclude other people from my land.
-
-> Defendant: Yes, but you do not own the land.
-
-In this example, the first argument bite asserts a principle ("plaintiff has a right to exclude") based on the factual premise that plaintiff owns the land. The opposing argument bite accepts the principle, but denies the factual premise.
-
-Alternatively, denying a normative premise is a type of argument that addresses the principle itself:
-
-> Plaintiff: I have a right to exclude other people from my land.
-
-> Defendant: Yes, you own the land, but no such right to exclude exists in law.
-
-In this second example, the question of who owns the land is not in dispute—instead, the parties are taking opposing positions on the property rights associated with ownership of land. 
-
-#### Symmetrical Opposition
-
-In denial of premise-type arguments, both argument bites are in direct conflict; it seems that for one to be true, the other must be false. Each argument bite directly attacks a factual or normative premise of its opponent. Symmetric opposition works somewhat differently. Here, neither argument bite works to undermine the its opponent directly. Instead, in symmetric opposition each party appeals to the respective interests of plaintiff and defendant. The result, in many cases, is the appearance of talking past one another, as in this example:
-
-> Plaintiff: I have a right to do what I want with my land.
-
-> Defendant: I have a right to freely express myself wherever I choose.  
-
-#### Counter-Theory 
-
-Like in denial of premise-type arguments, counter-theories present a direct conflict between plaintiff and defendants' positions. But rather than attacking an underlying premise of the opposing argument bite, counter-theory-type arguments present directly conflicting theories that favour the preferred outcomes on opposing sides. Here is a common example of this argument type about the institutional role of common law courts:
-
-> Plaintiff: the proper role of common law courts is to apply the law as they find it, not to make it.
-
-> Defendant: the common law evolves to meet the changing conditions and needs of society.
-
-Or, to give another example:
-
-> Plaintiff: first possession is the basis of property in land.
-
-> Defendant: formal title, backed by the authority of the state, is the basis of property in land. 
-
-#### Mediation 
-
-Mediation offers a sharp contrast to both symmetrical opposition and counter-theory because, in this form of argument, the opposing parties explicitly acknowledge a conflict between plaintiff's and defendant's claims, and offer different ways to resolve that conflict in their favour:
-
-> Plaintiff: I have a right to exclude other people from my land.
-
-> Defendant: You have a right to exclude other people from your land, but only when you can offer a legitimate reason for doing so. 
-
-
-
-Below, read through *Harrison v Carswell* again, working through the different argument types. 
-
-
-
-## *Harrison v Carswell*, [1976] 2 SCR 200 (Revisited) ##
+## *Harrison v Carswell*, [1976] 2 SCR 200 ##
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.pdf" target="_blank" rel="noopener">PDF</a>
 
 **Dickson J.** (Martland, Judson, Ritchie, Pigeon, and de Grandpré JJ. concurring) —
 
 [1] The respondent, Sophie Carswell, was charged under <span data-text="The relevant provision reads: 1(1) … (b) who enters or in any way trespasses upon lands or premises that are the property of another and are not wholly enclosed, after being requested by the owner, tenant or occupier not to do so, or who, having entered the lands or premises or committed the trespass, refuses to leave upon being requested by the owner, tenant or occupier to do so; is guilty of an offence, whether or not any damage has been occasioned by the entry or trespass, and is liable on summary conviction to a fine of not more than $5,000." class="tooltip">*The Petty Trespasses Act*, R.S.M. 1970, c. P50</span>, with four offences (one on each of four days) of unlawfully trespassing upon the premises of the Fairview Corporation Limited, trading under the firm name and style of Polo Park Shopping Centre, located in the City of Winnipeg, after having been requested by the owner not to enter on or come upon the premises. The appellant, Peter Harrison, manager of Polo Park Shopping Centre, swore the informations. The charges were dismissed by the Provincial Judge but on a trial de novo in the County Court Mrs. Carswell was convicted and fined $10 on each of the charges. The convictions were set aside by the Manitoba Court of Appeal [1974] 4 W.W.R. 394 (Freedman C.J.M. and Matas J.A., with Guy J.A. dissenting) and the present appeal followed by leave of this Court.
 
-<div id="red"><span id="red_1"></span>
+{{< spoiler text="Justice Dickson's first set of arguments: role of precedent." >}}
 
-{{< spoiler text="Denial of Premise - Normative (Dickson)" >}}<i class="fas fa-cookie-bite"></i> **The *Peters* case stands for the principle that shopping mall owners have sufficient possession of shopping mall sidewalks to exercise their right to exclude members of the public by bringing an action trespass against them.**
+After briefly reciting the key facts (as he sees them), Justice Dickson jumps right into his first group of arguments — arguments which support the majority’s position that Sophie Carswell ought to lose this case. 
 
-[(Jump to Laskin’s Argument)](#red_2){{< /spoiler >}}
+The unifying theme behind these the arguments in paragraphs [2] - [8] concerns the proper role of *judicial precedent*, that is, of past cases — especially those decided by the Supreme Court. Unusually, there was another case on similar facts called *Peters* that came before the Supreme Court just a few years before *Harrison*. Justice Dickson’s arguments focuses on how *Peters* should be applied here.
+
+{{< /spoiler >}}
 
 [2] With great respect, I am unable to agree with the majority reasons, delivered in the Court of Appeal by Freedman C.J.M., for I find it difficult, indeed impossible, to make any well-founded distinction between this case and *Peters v. The Queen* (1971), 2 C.C.C. (2d) 339n, 17 D.L.R. (3d) 128, decided by this Court four years ago in a unanimous decision of the full bench. The constitutional issue raised in *Peters* no longer concerns us; the only other issue was whether the owner of a shopping plaza had sufficient control or possession of the common areas, having regard to the unrestricted invitation to the public to enter upon the premises, as to enable it to invoke the remedy of trespass. The Court decided it did. That case and the present case came to us on much the same facts; picketing within a shopping centre in connection with a labour dispute. In *Peters* the picketing was carried out by the president of the Brampton Labour Council and seven other persons, carrying placards and distributing leaflets in front of a Safeway store, seeking a boycott of Safeway for selling California grapes. In the present case the picketing was carried out by Mrs. Carswell and 11 other persons carrying placards and distributing leaflets in front of the premises of their employer, Dominion Stores. In both instances the picketing was peaceful. Although the question posed in *Peters* did not recite the facts upon which the case rested, the question was worded thus:
 
@@ -123,29 +57,23 @@ Below, read through *Harrison v Carswell* again, working through the different a
 
 > The solicitor for the appellant relied very heavily upon a decision of the Court of Appeal for Saskatchewan in *Grosvenor Park Shopping Centre Ltd. v. Waloshin* [supra]. If our view in this appeal does not harmonize with the reasoning of the Court in the *Grosvenor Park* case, we must respectfully disagree with that reasoning.
 
-</div>
-
-<div id="orange"><span id="orange_1"></span>
-
-{{< spoiler text="Denial of Premise - Factual (Dickson)" >}}**There is no basis for distinguishing this case from *Peters* on the facts. Both cases were about peaceful picketing within a shopping centre in connection with a labour dispute. Therefore the Court here should apply the principle from *Peters* and arrive at the same result.**
-
-[(Jump to Laskin’s Argument)](#orange_2){{< /spoiler >}}
-
 [7] So when the *Peters* case came to this Court for consideration the Court had before it the reasoning of the Court of Appeal for Ontario in that case and the reasoning, difficult to reconcile, of the Court of Appeal for Saskatchewan in *Grosvenor Park*; the reasoning of the Ontario Court prevailed. There has been no suggestion that *Peters* was wrongly decided; therefore, I would think it must be regarded as controlling unless it can properly be distinguished from the case at bar. No distinction can be made on the ground of contract; there is a copy of the lease from Fairview to Dominion Stores among the papers but it would not appear, nor has it been argued, that any distinction can rest on that document. As to a possible statutory distinction, the Petty Trespass Acts of Manitoba and Ontario do not differ in any material respect and indeed s. 24 of The Labour Relations Act, 1972 (Man.), c. 75, specifically preserves rights against trespassers. Therefore it would seem that the appeal must succeed unless a valid distinction can be drawn on the ground that the president of the Brampton Labour Council in *Peters* was a mere member of the general public from whom permission to remain on the premises could be withdrawn at will, whereas Mrs. Carswell was an employee of one of the tenants of the shopping centre on strike in support of a current labour dispute from whom permission to remain on the premises could not, as a matter of law, be withdrawn. I find myself unable to accept that any ground in law supports such a distinction.
 
 [8] The evidence discloses that distribution of pamphlets or leaflets in the mall of Polo Park Shopping Centre or on the parking lot has never been permitted by the management of the centre and that this prohibition has extended to tenants of the centre. The centre, as a matter of policy, has not permitted any person to walk in the mall carrying placards. There is nothing in the evidence supporting the view that in the present case the owner of the centre was acting out of caprice or whimsy or mala fides. In a comment entitled "Labour Law — Picketing on Shopping Centres" (1965), 43 Can. Bar Rev. 357 at 362, H. W. Arthurs referred to the following as one of the legitimate concerns of the landlord of a shopping centre:
 
 > … while public authorities may, on behalf of the community, strike a reasonable balance between traffic and picketing on public sidewalks and streets, the shopping centre owner can hardly be expected to make such a choice; he has no authority to speak for the community; to grant picketing or parading privileges to all would invite chaos, while to do so selectively would invite commercial reprisals. He is thus driven to adopt a highly restrictive approach to granting permission to groups who wish to parade or picket in the shopping centre.
 
-</div>
+{{< spoiler text="Justice Dickson's second set of arguments: balancing interests and values." >}}
 
-<div id="green"><span id="green_1"></span>
+To this point, Dickson has focused his attention on *Peters* as a key judicial precedent in resolving the current case. In paragraph [8], Justice Dickson dismissed any reasons for distinguishing this case from *Peters*: the mall’s rules against picketing and pamphleting were the same for members of the public and tenants of the mall, and the mall owner wasn’t acting capriciously or in bad faith against the picketers. Indeed, in Justice Dickson’s view, the mall owner was clearly and simply acting in their own legitimate interests in governing the mall property. 
 
-{{< spoiler text="Counter-Theory (Dickson)" >}}**Attempts to balance competing interests—here, the commercial interests of the mall owner and the interests of the picketers in exercising the power of collective action in labour disputes—are the proper domain of elected legislatures rather than the courts, which are bound by the principle of *stare decisis* (past cases are binding).**
+Now, watch what happens next. Having identified the mall owner’s interests in governing the mall—namely, their economic interests in maintaining order and staying on good terms with the mall tenants—Justice Dickson’s reasoning then flows smoothly, almost seamlessly into a second set of arguments about the further significance of those interests. Here, the question for Justice Dickson becomes one about whether or not the Court can and should balance and weight the mall owner’s interests against those of Sophie Carswell and the other picketers in exercising their lawful labour rights. 
 
-[(Jump to Laskin’s Argument)](#green_2){{< /spoiler >}}
+{{< /spoiler >}}
 
 [9] It is urged on behalf of Mrs. Carswell that the right of a person to picket peacefully in support of a lawful strike is of greater social significance than the proprietary rights of an owner of a shopping centre and that the rights of the owner must yield to those of the picketer. The American example has been cited but I cannot say that I find the American cases to which we have been referred of great help. The facts in *Schwartz-Torrance Investment Corpn. v. Bakery and Confectionery Workers' Union, Local 31* (1964), 394 P. 2d 921, 85 S. Ct. 888, decided by the Supreme Court of California, are almost identical with those in *Grosvenor Park* but I think it not unimportant to note that in *Schwartz-Torrance* Tobriner J., early in his judgment, drew attention to the fact that the Legislature of the State of California had expressly declared that the public policy of the state favoured concerted activities of employees for the purpose of collective bargaining and had enacted the policy into an exception to the criminal trespass law. Construing that exception, the California Supreme Court in a case antedating *Schwartz-Torrance* had concluded that the Legislature, in dealing with trespasses, had specifically subordinated the rights of the property owner to those of persons engaged in lawful labour activities. *Schwartz-Torrance* is, therefore, of small aid in this case and indeed can be said to support, in a negative sense, a position inimical to that of Mrs. Carswell. And one need only read *Amalgamated Food Employees' Union, Local 590 v. Logan Valley Plaza Inc.* (1968), 391 U.S. 308, and then read *Lloyd Corpn. v. Tanner* (1972), 407 U.S. 551, 92 S. Ct. 2219, to apprehend the uncertainties and very real difficulties which emerge when a court essays to legislate as to what is and what is not a permissible activity within a shopping centre.
+
+
 
 [10] The submission that this Court should weigh and determine the respective values to society of the right to property and the right to picket raises important and difficult political and socio-economic issues, the resolution of which must, by their very nature, be arbitrary and embody personal economic and social beliefs. It raises also fundamental questions as to the role of this Court under the Canadian constitution. The duty of the court, as I envisage it, is to proceed in the discharge of its adjudicative function in a reasoned way from principled decision and established concepts. I do not for a moment doubt the power of the court to act creatively --- it has done so on countless occasions; but manifestly one must ask: what are the limits of the judicial function? There are many and varied answers to this question. Holmes J. said in *Southern Pacific Co. v. Jensen* (1917), 244 U.S. 205 at 221, 37 S. Ct. 524, 61 L. Ed. 1086.
 
@@ -163,21 +91,9 @@ Below, read through *Harrison v Carswell* again, working through the different a
 
 [13] Society has long since acknowledged that a public interest is served by permitting union members to bring economic pressure to bear upon their respective employers through peaceful picketing, but the right has been exercisable in some locations and not in others and to the extent that picketing has been permitted on private property the right hitherto has been accorded by statute. For example, s. 87 of The Labour Code of British Columbia, 1973 (2nd Sess.) (B.C.), c. 122, provides that no action lies in respect of picketing permitted under the Act for trespass to real property to which a member of the public ordinarily has access.
 
-</div>
-
-<div id="purple"><span id="purple_1"></span>
-
-{{< spoiler text="Symmetric Opposition (Dickson)" >}}**Property owners have a fundamental right to enjoyment of their property.**
-
-[(Jump to Laskin’s Argument)](#purple_2){{< /spoiler >}}
-
-{{< spoiler text="Mediation (Dickson)" >}}**The *Petty Trespasses Act* gives property owners the right to exclude any member of the public for any reason by bringing an action in trespass against them.**
-
-[(Jump to Laskin’s Argument)](#lightpurple){{< /spoiler >}}
-
 [14] Anglo-Canadian jurisprudence has traditionally recognized, as a fundamental freedom, the right of the individual to the enjoyment of property and the right not to be deprived thereof, or any interest therein, save by due process of law. The Legislature of Manitoba has declared in The Petty Trespasses Act that any person who trespasses upon land, the property of another, upon or through which he has been requested by the owner not to enter, is guilty of an offence. If there is to be any change in this statute law --- if A is to be given the right to enter and remain on the land of B against the will of B --- it would seem to me that such a change must be made by the enacting institution, the Legislature, which is representative of the people and designed to manifest the political will, and not by the court.
 
-[15] I would allow the appeal, set aside the judgment of the Court of Appeal for Manitoba and restore the judgment of the County Court Judge.</div>
+[15] I would allow the appeal, set aside the judgment of the Court of Appeal for Manitoba and restore the judgment of the County Court Judge.
 
 **Laskin CJC.** (dissenting) (*Spence* and *Beetz JJ.* concurring) —
 
@@ -187,25 +103,11 @@ Below, read through *Harrison v Carswell* again, working through the different a
 
 [18] There can be no doubt that at least where a shopping centre is freely accessible to the public, as is the one involved in the present case, the private owner has invested members of the public with a right of entry during the business hours of his tenants and with a right to remain there subject to lawful behaviour. Counsel for the appellant owner in this case stated that members of the public entered and remained in the shopping centre at the owner's whim, under what may be called a revocable licence, and were subject to liability for trespass if they did not leave when requested regardless of how proper their conduct was at the time. This is an extravagant position. It is a sufficient demonstration of its hollowness to point out that a member of the public who came to the shopping centre at the express invitation of a tenant for business reasons could not lawfully be excluded by the private owner. I need not pursue the extreme of the appellant's submission but put it to one side to deal with the specific trespass claim that arose here.
 
-<div id="orange"><span id="orange_2"></span>
-
-{{< spoiler text="Denial of Premise - Factual (Laskin)" >}}***Peters* can be distinguished from this case on the facts because here the defendant, Sophie Carswell, was engaged in a lawful strike protected by labour relations legislation, whereas in *Peters* the defendant was engaged in a boycott of goods sold by a store in the mall.**
-
-[(Jump to Dickson’s Argument)](#orange_1){{< /spoiler >}}
-
 [19] An employee of a tenant in the shopping centre participated in a lawful strike and then proceeded to picket peacefully on the sidewalk in front of the tenant's premises. The struck employer took no action to prohibit the picketing and, on the record, an action by the employer would probably have been unsuccessful. The owner of the shopping centre introduced himself into the situation and told the picketer, the respondent in this appeal, that picketing was not permitted in any area of the shopping centre and if she did not leave she would be charged with trespass. He advised her to move to a public sidewalk which was some distance away. She continued to picket on the shopping centre sidewalk and charges against her under The Petty Trespasses Act, R.S.M. 1970, c. P50, followed.
 
 [20] The *Peters* case, supra, also involved picketing in a shopping centre. However, the picketing there arose not out of a labour dispute with an employer tenant of premises in the shopping centre but was by way of a boycott appeal against the selling of California grapes. The oral reasons of Gale C.J.O. for the Ontario Court of Appeal were undoubtedly geared to the specific facts before him and it is therefore unfair, in my view, to read, without that context, his general statement that [p. 146]:
 
 > … an owner who has granted a right of entry to a particular class of the public has not thereby relinquished his or its right to withdraw its invitation to the general public or any particular member thereof, and that if a member of the public whose invitation to enter has been withdrawn refuses to leave, he thereby becomes a trespasser and may be prosecuted under the *Petty Trespass Act* [R.S.O. 1960, c. 294].
-
-</div>
-
-<div id="red"><span id="red_2"></span>
-
-{{< spoiler text="Denial of Premise - Normative (Laskin)" >}}***Peters* does not stand for the principle that shopping mall owners have sufficient possession of shopping mall sidewalks in all circumstances to exclude members of the public without a good reason to do so.**
-
-[(Jump to Dickson’s Argument)](#red_1){{< /spoiler >}}
 
 [21] Be that as it may, the case came to the Supreme Court of Canada not at large but on two specific questions of law, the second of which concerned the constitutional validity of the provincial Petty Trespass Act, a matter which did not become an issue here. That was made clear to the sole intervenant in the present case, the Attorney General for Saskatchewan, who appeared to defend the validity of such legislation.
 
@@ -219,27 +121,11 @@ Below, read through *Harrison v Carswell* again, working through the different a
 
 [25] My brother Spence, who also sat as a member of this Court in the *Peters* case, associates himself with me in the view of it that I have put forward, and I would think that this should give pause to any suggestion that the *Peters* case has concluded the issue now before us, an issue arising on different facts and on a broader question of law than that to which an answer was sought and given in the *Peters* case.
 
-</div>
-
-<div id="green"><span id="green_2"></span>
-
-{{< spoiler text="Counter-Theory (Laskin)" >}}**Courts should not pay “mechanical deference” to *stare decisis*, but rather have an obligation to respond to “new social facts” as they emerge by adapting the law to meet them.** 
-
-[(Jump to Dickson’s Argument)](#green_1){{< /spoiler >}}
-
 [26] This Court, above all others in this country, cannot be simply mechanistic about previous decisions, whatever be the respect it would pay to such decisions. What we would be doing here, if we were to say that the *Peters* case, because it was so recently decided, has concluded the present case for us, would be to take merely one side of a debatable issue and say that it concludes the debate without the need to hear the other side.
 
 [27] I do not have to call upon pronouncements of members of this Court that we are free to depart from previous decisions in order to support the pressing need to examine the present case on its merits. Pressing, because there are probably many hundreds of shopping centres in this country where similar issues have arisen and will arise. The Saskatchewan Court of Appeal has dealt with a picketing situation in a shopping centre in a different way than did the Ontario Court of Appeal in the *Peters* case, albeit on different facts and in respect of civil action rather than in a penal proceeding: see *Grosvenor Park Shopping Centre Ltd. v. Waloshin* (1964), 49 W.W.R. 237, 46 D.L.R. (2d) 750 (Sask. C.A.). There are judgments in related cases, that were cited to us in argument, that need to be taken into consideration in order to enable this Court to begin to draw lines which courts are habitually called upon to do. There should be, at least, some indication that the Court has addressed itself to the difficult issues that reside in the competing contentions that were made in this case and to which I will refer later on in these reasons. But, above all, this Court has not shown itself to be timorous in tackling important issues where it could be said, with some justification, that an important consideration was absent from an earlier judgment, even a recent one, upon which reliance was placed to foreclose examination of a similar issue in a subsequent case.
 
 [28] I refer to the judgment of this Court in *Augustine's Farm Dairy v. Milk Commn. of Ont.*, [1973] S.C.R. 131, as evidence of the approach which I think is compelled in the present case. Of course, it was a different case and turned on the neglect of this Court to consider earlier conflicting decisions when deciding the case that was pressed as an authority to conclude the decision in the *Augustine's Farm Dairy* care itself. What is important, however, is not whether we have a previous decision involving a "brown horse" by which to judge a pending appeal involving a "brown horse", but rather what were the principles and, indeed, the facts, upon which the previous case, now urged as conclusive, was decided. I need only add that there can be no doubt on the question whether the present case provides a developed set of facts that raise the important issues of law that require decision here. It certainly does.
-
-</div>
-
-<div id="purple"><span id="purple_2"></span>
-
-{{< spoiler text="Symmetric Opposition (Laskin)" >}}**Members of the public have fundamental rights (such as labour rights) that require access to public spaces for their lawful exercise.**
-
-[(Jump to Dickson’s Argument)](#purple_1){{< /spoiler >}}
 
 [29] I come then to those issues, and they can only be understood if we look at the present case not only from the position asserted by the shopping centre owner but as well from the position asserted by the lawful picketer. An ancient legal concept, trespass, is urged here in all its pristine force by a shopping centre owner in respect of areas of the shopping centre which have been opened by him to public use, and necessarily so because of the commercial character of the enterprise based on tenancies by operators of a variety of businesses. To say in such circumstances that the shopping centre owner may, at his whim, order any member of the public out of the shopping centre on penalty or liability for trespass if he refuses to leave does not make sense if there is no proper reason in that member's conduct or activity to justify the order to leave.
 
@@ -259,14 +145,6 @@ Below, read through *Harrison v Carswell* again, working through the different a
 
 [37] Recognition of the need for balancing the interests of the shopping centre owner with competing interests of members of the public when in or on the public areas of the shopping centre engaged courts in the United States a little earlier than it did the courts in this country. Making every allowance for any constitutional basis upon which courts there grappled with this problem, their analyses are helpful because they arise out of the same economic and social setting in which the problem arises here. Thus, there is emphasis on unrestricted access to shopping centres from public streets and on the fact that access by the public is the very reason for the existence of shopping centres; there is the comparison drawn between the public markets of long ago and the shopping centre as a modern market place; there is the appreciation that in the light of the interests involved there can be no solution to their reconciliation by positing a flat all or nothing approach. The cases in the United States, and I cite a few of them here without further elaboration, appear to me to reject the appellant's proposition that (as his counsel put it) "the issue is trespass, not picketing" because that, in my opinion, involves a predetermination without regard to the issues of fact: see *Schwartz-Torrance Investment Corpn. v. Bakery and Confectionary Workers' Union, Local 31* (1964), 394 P. 2nd 921, 85 S. Ct. 888; *Amalgamated Clothing Workers of Amer. v. Wonderland Shopping Centre Inc.* (1963), 122 N.W. 2d 785; *Amalgamated Food Employees' Union, Local 590 v. Logan Valley Plaza Inc.* (1968), 391 U.S. 308; *Lloyd Corpn. Ltd. v. Tanner* (1972), 407 U.S. 551, 92 S. Ct. 2219.
 
-</div>
-
-<div id="lightpurple">
-
-{{< spoiler text="Mediation (Laskin)" >}}**Members of the public enjoy a privilege of access to areas of property normally treated as public—a privilege which property owners have the power to revoke (by bringing an action under the *Petty Trespasses Act*) only if a member of the public is engaged in bad behaviour.**
-
-[(Jump to Dickson’s Argument)](#purple_1){{< /spoiler >}}
-
 [38] A more appropriate approach, to which I adverted earlier, is to recognize a continuing privilege in using the areas of the shopping centre provided for public passage subject to limitations arising out of the nature of the activity thereon and to the object pursued thereby, and subject as well to a limitation against material damage. There is analogy in existing conceptions of privilege as an answer to intentional torts, such as trespass. The principle is expressed in Prosser on Torts, 4th ed. (1971), at p. 98, as follows:
 
 > ‘Privilege' is the modern term applied to those considerations which avoid liability where it might otherwise follow. In its broader sense, it is applied to any immunity which prevents the existence of a tort; but in its more common usage, it signifies that the defendant has acted to further an interest of such social importance that it is entitled to protection, even at the expense of damage to the plaintiff. He is allowed freedom of action because his own interests, or those of the public require it, and social policy will best be served by permitting it. The boundaries of the privilege are marked out by current ideas of what will most effectively promote the general welfare.
@@ -281,8 +159,10 @@ Below, read through *Harrison v Carswell* again, working through the different a
 
 [40] Illustrations were given during the course of argument of situations which might put the respondent's activity in a different light relative to the place of picketing and to the object of picketing and which, correlatively, might provide some redeeming interest of the shopping centre owner in exercising control over the public areas. The character of a shopping centre, such as the one involved here, is one thing, and the nature and place of activities carried on there are something else. I would agree that it does not follow that because unrestricted access is given to members of the public to certain areas of the shopping centre during business hours, those areas are available at all times during those hours and in all circumstances to any kind of peaceful activity by members of the public, regardless of the interest being prompted by that activity and regardless of the numbers of members of the public who are involved. The Court will draw lines here as it does in other branches of the law as may be appropriate in the light of the legal principle and particular facts. In the present case it is the respondent who has been injured rather than the shopping centre owner.
 
-</div>
-
 [41] I would dismiss the appeal.
 
-[^kennedy1991]: This section draws heavily on Duncan Kennedy, "A semiotics of legal argument" (1991) 42 *Syracuse Law Review* 75.
+## Case Context ##
+
+We will return to *Harrison v Carswell* again next week in order to look more closely at the legal arguments deployed by the judges. 
+
+Our main focus in studying *Harrison* is to analyze the case’s *legal context*, i.e. the structure of the judges’ arguments. But in order to focus on that legal context, it is helpful to get a brief sense of the social and political contexts in which the case was taking place. 

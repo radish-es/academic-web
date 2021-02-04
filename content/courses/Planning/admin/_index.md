@@ -1,15 +1,17 @@
 ---
 # Title, summary, and page position.
-linktitle: Weekly Readings
-summary: Weekly readings for the course
-weight: 20
-icon: book
+linktitle: Admin
+summary: Admin
+weight: 10
+icon: cogs
 icon_pack: fas
 
 # Page metadata.
-title: Weekly Readings
+title: Administration
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
+## Flexibility
 
+This f

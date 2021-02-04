@@ -1,96 +1,16 @@
 ---
-title: "Week 2 - Analyzing (Common Law) Legal Arguments"
+title: "Week 2 - Method"
 linktitle: "Week 2"
 type: book
-date: "2021-02-03"
+date: "2020-12-20"
 weight: 3
 ---
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week2" target="_blank" rel="noopener">SLIDES</a>
 
-## The Structure of Common Law Arugment ##
+## Argument Bites and Legal Arguments ##
 
-At the end of Week 1, I asked you to consider the *similarities* in the judges' arguments in *Harrison v Carswell*, rather than focus only on their disagreements. This week, we delve into those similarities in order to see how the deeper patterns of common law argument structure and constrain how judges and other legal actors think, write and speak. 
-
-The key point for the week is this: **legal arguments are highly patterned, and the structure of legal arguments — though not necessarily the outcomes of legal arguments — is highly predictable**. These patterns of argument recur again and again in the cases we will read this year. Becoming proficient in making legal arguments means being able to recognize and make use of these patterns.
-
-The patterns I am talking about here occur at two different levels. One level is the specific forms of argument and counter-argument we commonly see in all judicial decisions (e.g., "the plaintiff has a right to do X" vs "these facts justify a limitation on plaintiff's right to do X in the circumstances"). At another level are the broader movements in legal thought that determine which forms of argument and counter-argument are more likely to be seen as persuasive. 
-
-A good way to think about all this is by analogy to language. Learning to speak a new language requires you to learn the whole new set of words that comprise this language—i.e., its vocabulary. But to learn this new language, you need to learn not only its vocabulary, but also its grammatical structure—i.e., how the words fit together to form coherent thoughts. 
-
-The recurring forms of legal argument and counter-argument we will study — what we'll call "argument bites" — are the basic units of common law vocabulary. You will develop a list or lexicon on these argument bites and learn how to use them to analyze and make legal arguments. These argument bites are our focus in Unit 1 (weeks 1 to 3). 
-
-Next, in Unit 2, we will start to uncover the deeper "grammatical" structure of common law property by studying how changing ideas about the market and the state influence and constrain the legal vocabulary of judges and lawyers during different historical eras. But for now, you can set aside this concept of legal grammar and focus on the new vocabulary you need to learn. 
-
-### Argument Bites and Argument Types
-
-To reiterate: the basic units of legal argument in common law property are limited to a small number of stereotypical "argument bites" that always come together in opposing pairs that we call "legal arguments" (argument bite and counter-argument bite). Our task this week is to describe the legal argument types that you'll encounter most frequently in property law and then to practice identifying these argument types in judicial decisions.[^kennedy1991]
-
-Here is a list of the argument types we will be working with this week, followed by a brief description of each:
-
-- Denial of Premise 
-
-- Symmetrical Opposition
-
-- Counter-Theory
-
-- Mediation
-
-#### Denial of Premise
-
-Denying the premise of an opposing argument bite is an attempt to undermine the factual or normative basis of that opposing bite. Denying a factual premise might look something like this:
-
-> Plaintiff: I have a right to exclude other people from my land.
-
-> Defendant: Yes, but you do not own the land.
-
-In this example, the first argument bite asserts a principle ("plaintiff has a right to exclude") based on the factual premise that plaintiff owns the land. The opposing argument bite accepts the principle, but denies the factual premise.
-
-Alternatively, denying a normative premise is a type of argument that addresses the principle itself:
-
-> Plaintiff: I have a right to exclude other people from my land.
-
-> Defendant: Yes, you own the land, but no such right to exclude exists in law.
-
-In this second example, the question of who owns the land is not in dispute—instead, the parties are taking opposing positions on the property rights associated with ownership of land. 
-
-#### Symmetrical Opposition
-
-In denial of premise-type arguments, both argument bites are in direct conflict; it seems that for one to be true, the other must be false. Each argument bite directly attacks a factual or normative premise of its opponent. Symmetric opposition works somewhat differently. Here, neither argument bite works to undermine the its opponent directly. Instead, in symmetric opposition each party appeals to the respective interests of plaintiff and defendant. The result, in many cases, is the appearance of talking past one another, as in this example:
-
-> Plaintiff: I have a right to do what I want with my land.
-
-> Defendant: I have a right to freely express myself wherever I choose.  
-
-#### Counter-Theory 
-
-Like in denial of premise-type arguments, counter-theories present a direct conflict between plaintiff and defendants' positions. But rather than attacking an underlying premise of the opposing argument bite, counter-theory-type arguments present directly conflicting theories that favour the preferred outcomes on opposing sides. Here is a common example of this argument type about the institutional role of common law courts:
-
-> Plaintiff: the proper role of common law courts is to apply the law as they find it, not to make it.
-
-> Defendant: the common law evolves to meet the changing conditions and needs of society.
-
-Or, to give another example:
-
-> Plaintiff: first possession is the basis of property in land.
-
-> Defendant: formal title, backed by the authority of the state, is the basis of property in land. 
-
-#### Mediation 
-
-Mediation offers a sharp contrast to both symmetrical opposition and counter-theory because, in this form of argument, the opposing parties explicitly acknowledge a conflict between plaintiff's and defendant's claims, and offer different ways to resolve that conflict in their favour:
-
-> Plaintiff: I have a right to exclude other people from my land.
-
-> Defendant: You have a right to exclude other people from your land, but only when you can offer a legitimate reason for doing so. 
-
-
-
-Below, read through *Harrison v Carswell* again, working through the different argument types. 
-
-
-
-## *Harrison v Carswell*, [1976] 2 SCR 200 (Revisited) ##
+## *Harrison v Carswell*, [1976] 2 SCR 200 ##
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.pdf" target="_blank" rel="noopener">PDF</a>
 
 **Dickson J.** (Martland, Judson, Ritchie, Pigeon, and de Grandpré JJ. concurring) —
@@ -99,7 +19,7 @@ Below, read through *Harrison v Carswell* again, working through the different a
 
 <div id="red"><span id="red_1"></span>
 
-{{< spoiler text="Denial of Premise - Normative (Dickson)" >}}<i class="fas fa-cookie-bite"></i> **The *Peters* case stands for the principle that shopping mall owners have sufficient possession of shopping mall sidewalks to exercise their right to exclude members of the public by bringing an action trespass against them.**
+{{< spoiler text="Denial of Premise - Normative (Dickason)" >}}<i class="fas fa-cookie-bite"></i> **The *Peters* case stands for the principle that shopping mall owners have sufficient possession of shopping mall sidewalks to exercise their right to exclude members of the public by bringing an action trespass against them.**
 
 [(Jump to Laskin’s Argument)](#red_2){{< /spoiler >}}
 
@@ -284,5 +204,3 @@ Below, read through *Harrison v Carswell* again, working through the different a
 </div>
 
 [41] I would dismiss the appeal.
-
-[^kennedy1991]: This section draws heavily on Duncan Kennedy, "A semiotics of legal argument" (1991) 42 *Syracuse Law Review* 75.

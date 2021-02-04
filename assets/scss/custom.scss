@@ -8,7 +8,39 @@ blockquote {
     padding-top: 0;
 }
 
-/* Case comment container */
+h2 {
+    font-weight: 500;
+    font-size: 1.25em
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 1.10em;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 1em;
+}
+
+ul {
+    list-style-type: square;
+}
+
+/* NEW - Comment container */
+
+.card-body p {
+    font-family: 'Jost';
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 1.5em;
+}
+
+.spoiler h4 {
+    display: inline;
+}
+
+/* OLD -- Case comment container */
 
 .comment, .comment li, .comment p {
     border: 1px;
@@ -102,12 +134,23 @@ h2#quiz-header {
 
 #red, #red blockquote, #red .comment, #red .comment h4 {color:#800000;}
 
+#red .btn-primary {background-color:#800000;}
+
 #orange, #orange blockquote, #orange .comment, #orange .comment h4 {color:#e67300;}
+
+#orange .btn-primary {background-color:#e67300;}
 
 #green, #green blockquote, #green .comment, #green .comment h4 {color:#006600;}
 
+#green .btn-primary {background-color:#006600;}
+
 #purple, #purple blockquote, #purple .comment, #purple .comment h4 {color:#660066;}
 
+#purple .btn-primary {background-color:#660066;}
+
 #lightpurple, #lightpurple blockquote, #lightpurple .comment, #lightpurple .comment h4 {color:#990099;}
+
+#lightpurple .btn-primary {background-color:#990099;}
+
 
 

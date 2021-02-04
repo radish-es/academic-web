@@ -2,7 +2,7 @@
 title: "Week 3 - Practicing Method"
 linktitle: "Week 3"
 type: book
-date: "2020-12-17"
+date: "2021-01-10"
 weight: 4
 ---
 
