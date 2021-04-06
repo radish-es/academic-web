@@ -2,7 +2,7 @@
 title: "Week 1 - Introduction to the Course"
 linktitle: "Week 1"
 type: book
-date: "2021-01-29"
+date: "2021-04-06"
 weight: 2
 ---
 
@@ -30,8 +30,6 @@ While I expect that you will return to these documents many times throughout the
 
 I will highlight some key points at the beginning of this week's class meeting and make time for your questions about the syllabus. If questions arise as your read the syllabus for the first time, you can submit them to me ahead of time using the button below and I will provide answers to the class when we meet. 
 
-{{< spoiler text="Ask your questions about the syllabus." >}}{{< gform src="1FAIpQLSd5bXWIPdgXpceZrk7H1CuXxh2NCmRen_pNELyTl0qr0v3waA" width="640" height="400" >}}{{< /spoiler >}}
-
 ## Our First Case ##
 
 The first case we’ll read in this course — the Supreme Court of Canada’s decision in *Harrison v Carswell* — is about a labour dispute at a shopping mall in Winnipeg in the mid-1970s. That setting may not strike you as obviously important or exciting, but *Harrison* is arguably one of the Supreme Court's most important decisions for what it reveals about the central problems and debates in property law, and — more important still — for what it show us about *how* judges and lawyers engage in those debates using the patterns and practices of legal argument.
@@ -41,10 +39,6 @@ There are several layers here that we will peel away in order to fully appreciat
 Before you jump into the case as a whole, watch the short screencast below (click "*Learn to quickly review a case*") to start building a few essential strategies for reading *Harrison* and other complex cases in our course.
 
 {{< spoiler text="Learn to quickly review a case." >}}[This is a screencast]. {{< /spoiler >}}
-
-{{< spoiler text="Test your skills." >}}After viewing the screencast above, complete steps 1 (read the facts) and 2 (figure out where each judge is heading). Then test your knowledge with the quiz below. 
-
-{{< gform src="1FAIpQLSciyj5SF8rslwbD1OnV7JuOhTFuNlFwH3HxrN0r5XaARULADw" width="640" height="700" >}}{{< /spoiler >}}
 
 Once you've completed the quiz above, move on to step 3 of the case review strategy: read the full case as closely as possible. You will likely find some terms and concepts a little confusing or totally incomprehensible. This is completely normal. Try not to get too discouraged if you find that reading cases is frustrating at first. Keep going — this will get easier the more you practice, even if it feels like treading water for now. I encourage you to take the case in chunks, using the prompts along the way to pause your reading and take stock of what you're learning or finding it hard to understand.
 
@@ -201,3 +195,17 @@ While fairly mundane on its facts, *Harrison v Carswell* is compelling because t
 Next week, when we return to *Harrison v Carswell* for a second reading of the case, I will try to convince you that this question of who has the better or more persuasive arguments is not really an important question — or at least, it is not the *most* important question about *Harrison* — at this stage of your legal education. Rather than focusing on whether one or the other set of reasons are good or bad from a legal (or any other) standpoint, I will ask you to focus on the question of *how* the legal reasoning in *Harrison* actually works in practice. 
 
 Here is another way of posing this challenge for you to think about before Week 2. In spite of everything the judges in *Harrison* seem to disagree about, they actually agree about a great many things. Justices Laskin and Dickson share a tremendous amount in common when it comes to the underlying *structure* and *style* of their arguments. Our first task is to describe this underlying structure. Only once you have come to appreciate what the judges share in common can you begin to grapple with the consequences of their different points of view.
+
+## Quick Check-out ##
+
+Before you move on to other work, ask yourself if you've absorbed key points from this week with the flip-cards below (cursor over for the answer).
+
+{{< flipcard front="How should ask your questions about the course materials?" >}}# In person
+
+([E-mail for appointment](../../admin/syllabus#general-information)).{{< /flipcard >}}
+
+{{< flipcard front="Which judicial **precedent** seems key to the outcome of *Harrison v Carswell*?" >}}# *Peters*  
+
+(Can you explain why?){{< /flipcard >}}
+
+{{< flipcard front="Which judge argues the common law should be responsive to social demands?" >}}# Laskin, CJ{{< /flipcard >}}

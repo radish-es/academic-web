@@ -27,7 +27,20 @@ ul {
     list-style-type: square;
 }
 
-/* NEW - Comment container */
+/* BUTTONS and SPOILER*/
+
+.btn {
+    border-radius: .2em;
+}
+
+.btn-primary {
+    background-color: #2c3e50;
+   margin: auto;
+}
+
+.btn-primary:hover {
+    background-color: #1c2733;
+}
 
 .card-body p {
     font-family: 'Jost';
@@ -40,38 +53,15 @@ ul {
     display: inline;
 }
 
-/* OLD -- Case comment container */
+/* CALLOUT */
 
-.comment, .comment li, .comment p {
-    border: 1px;
+.alert-note {
+    background-color: white;
+    color: black;
+    border-color: #2c3e50;
 }
 
-.comment {
-    font-family: 'Jost';
-    font-weight: 300;
-    font-size: 0.9em;
-    line-height: 1.5em;
-    border-style: solid;
-    padding: 8px;
-    padding-left: 10px;
-    margin-bottom: 10px;
-    background: none;
-    color: #0044cc;
-}
 
-.comment p {
-    margin-top: 10px;   
-}
-
-.comment h4 {
-    display: inline;
-    color: #0044cc;
-    font-weight: 300;
-}
-
-details > summary {
-    cursor: pointer;
-}
 
 /* Tooltip container */
 
@@ -152,5 +142,60 @@ h2#quiz-header {
 
 #lightpurple .btn-primary {background-color:#990099;}
 
+/* IFrame Settings */
+
+iframe {min-width: 100%;}
+
+
+/*Flip Cards - from https://www.w3schools.com/howto/howto_css_flip_card.asp -- change display:inline-block*/
+
+.flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 200px;
+  border: 0;
+  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+  display: inline-block;
+}
+
+/* This container is needed to position the front and back side */
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-card-front {
+  background-color: #2c3e50;
+  color: white;
+  padding: 20px 10px 0px 10px;
+}
+
+/* Style the back side */
+.flip-card-back {
+  background-color: #b4c4d1;
+  color: black;
+  transform: rotateY(180deg);
+  padding: 0px 10px 0px 10px;
+    line-height: 1.2em;
+}
 
 
