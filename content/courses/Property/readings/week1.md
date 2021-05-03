@@ -2,7 +2,7 @@
 title: "Week 1 - Introduction to the Course"
 linktitle: "Week 1"
 type: book
-date: "2021-04-06"
+date: "2021-04-19"
 weight: 2
 ---
 
@@ -28,7 +28,14 @@ While I expect that you will return to these documents many times throughout the
 
 - Your rights and responsibilities related to [accommodations, plagiarism and maintaining an inclusive classroom](../../admin/syllabus#accommodations).
 
-I will highlight some key points at the beginning of this week's class meeting and make time for your questions about the syllabus. If questions arise as your read the syllabus for the first time, you can submit them to me ahead of time using the button below and I will provide answers to the class when we meet. 
+I will highlight some key points at the beginning of this week's class meeting and make time for your questions about the syllabus. If questions arise as your read the syllabus for the first time, you can submit them to me ahead of time (anonymously) using the form below. 
+
+{{% callout note %}} 
+
+### Syllabus Questions
+
+Ask your questions about the *Course Syllabus* here. I will review these ahead of our first class and give answers to the class as a whole when we meet.
+<iframe src="https://opensourcelaw.limesurvey.net/723337" height="400"frameBorder="0"></iframe>{{% /callout %}}
 
 ## Our First Case ##
 
@@ -39,6 +46,15 @@ There are several layers here that we will peel away in order to fully appreciat
 Before you jump into the case as a whole, watch the short screencast below (click "*Learn to quickly review a case*") to start building a few essential strategies for reading *Harrison* and other complex cases in our course.
 
 {{< spoiler text="Learn to quickly review a case." >}}[This is a screencast]. {{< /spoiler >}}
+
+## Practice: Case Review ##
+
+{{% callout note %}} 
+
+### Quiz
+
+After viewing the screencast above, complete steps one (*read the facts*) and two (*figure out where each judge is going*) of the analysis. Then test your knowledge with this quiz.
+<iframe src="https://opensourcelaw.limesurvey.net/666313" height="800"frameBorder="0"></iframe>{{% /callout %}}
 
 Once you've completed the quiz above, move on to step 3 of the case review strategy: read the full case as closely as possible. You will likely find some terms and concepts a little confusing or totally incomprehensible. This is completely normal. Try not to get too discouraged if you find that reading cases is frustrating at first. Keep going — this will get easier the more you practice, even if it feels like treading water for now. I encourage you to take the case in chunks, using the prompts along the way to pause your reading and take stock of what you're learning or finding it hard to understand.
 

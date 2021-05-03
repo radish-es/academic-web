@@ -1,12 +1,7 @@
 ---
-title: Week 1
-summary: Slides from class.
-authors: [Prof. Baxter]
-tags: []
-categories: []
-date: "December 13, 2020"
+title: "Week 1"
+date: "April 20, 2021"
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: night
 ---
 
@@ -14,7 +9,7 @@ slides:
 
 # Week 1
 
-## Introduction
+## Intro to the Course
 
 ---
 
@@ -24,28 +19,66 @@ slides:
 
 1. Welcome and course overview
 
-2. *Harrison v Carswell*
-
-3. Another topic
-
-4. Conclusion
+2. Our first case
 
 ---
 
-{{< slide id="hello" background="#FFF" background-image="https://www.dropbox.com/s/wizg1tmov3f3g7r/singer.jpg?raw=1" transition="zoom" transition-speed="fast" >}}
+{{< slide id="">}}
+
+## Course Overview
+
+- Course website and materials[: everything in one place and open source.]
+
+- Course procedures[: e-mail, meeting with me, etc. ]
+
+- Preparing for class[: weekly readings; what to expect in class.]
+
+- Evaluation
+
+- Questions?
+
+---
+
+{{< slide id="">}}
+
+### Course Goal
+
+*To build a critical understanding of property's legal language in Canada.*
+
+[- "Legal language" = (vocabulary + grammar) and style
+
+- Unit 1: intro to vocabulary + grammar of common law of property in Canada
+
+- Units 2-4: key property doctrines through historical styles of legal argument (classical, modern, contemporary) -- story = making of Canadian liberalism 
+
+LITERARY EXAMPLE? 
+
+COMMENT ON LEGAL PLURALISM / MULTIJURIDICAL?
+]---
+
+{{< slide id="">}}
 
 ## *Harrison v Carswell*
 
+[- purpose of reading this case
+
+- read paragraph 1 (Dickson's facts)
+
+- explain procedural history
+]---
+
+{{< slide id="">}}
+
+### Exercise: The Facts
+
+Re-write paragraph 1 from Justice Laskin's perspective. What additional "facts" would you include? Why?
 ---
 
-## Hello Everyone
+{{< slide id="">}}
 
-1. Item
+### Issues
 
-2. Another
+Narrow: "sufficient possession" 
 
-3. Yes
-
+Broad: *stare decisis* and the role of the courts
 ---
-
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
