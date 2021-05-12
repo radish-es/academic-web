@@ -2,21 +2,17 @@
 title: "Week 1 - Introduction to the Course"
 linktitle: "Week 1"
 type: book
-date: "2021-04-19"
+date: "2021-05-12"
 weight: 2
 ---
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week1" target="_blank" rel="noopener">SLIDES</a>
-
 ## Course Overview ##
 
-Property law in contemporary Canada is a complicated and many-layered thing. It is comprised of multiple legal traditions (Indigenous, Anglo-Canadian, Franco-Canadian), structures of legal thought (Western liberalism and its counter-movements), rules and norms. It forms the very basis of colonial dispossession and economic inequality in Canada, and it holds some of the greatest potential for realizing reconciliation and social justice, now and in the future. 
+Property law in contemporary Canada is a kaleidoscopic subject. It is comprised of multiple legal traditions (Indigenous, Anglo-Canadian, Franco-Canadian), styles of legal thinking, writing and storytelling, and rules and norms. It serves as the basis for colonial dispossession and economic inequality in Canada but it might also hold some of the greatest potential for working toward reconciliation and social justice.
 
-This section sketches a brief overview of the course. Please familiarize yourself with these basics, before moving on to read our first case.
+Before we launch into the course content, please familiarize yourself with the basic procedures and expectations for our course this year. Start by reading the [Course Syllabus](../../admin/syllabus) and reviewing the [Course Schedule](../../admin/schedule). These are the key documents you'll need to use throughout the year to understand the course logistics, expectations, policies and schedule for assigned readings.
 
-Start by reading the [Course Syllabus](../../admin/syllabus) and reviewing the [Course Schedule](../../admin/schedule). These are the key documents you'll need to use throughout the year to understand the course logistics, expectations, policies and schedule for assigned readings.
-
-While I expect that you will return to these documents many times throughout the course, ensure that you begin this week with a good understanding of:
+Ensure that you begin this week with a good understanding of:
 
 - [Course procedures](../../admin/syllabus#general-information) for communicating with me and arranging in-person appointments outside of class meetings;
 
@@ -28,7 +24,7 @@ While I expect that you will return to these documents many times throughout the
 
 - Your rights and responsibilities related to [accommodations, plagiarism and maintaining an inclusive classroom](../../admin/syllabus#accommodations).
 
-I will highlight some key points at the beginning of this week's class meeting and make time for your questions about the syllabus. If questions arise as your read the syllabus for the first time, you can submit them to me ahead of time (anonymously) using the form below. 
+I will highlight some key points for these materials at the beginning of this week's class meeting and make time for your questions about the syllabus. If questions arise as you read the syllabus for the first time, you can submit them to me (anonymously) ahead of time using the form below. 
 
 {{% callout note %}} 
 
@@ -37,7 +33,28 @@ I will highlight some key points at the beginning of this week's class meeting a
 Ask your questions about the *Course Syllabus* here. I will review these ahead of our first class and give answers to the class as a whole when we meet.
 <iframe src="https://opensourcelaw.limesurvey.net/723337" height="400"frameBorder="0"></iframe>{{% /callout %}}
 
-## Our First Case ##
+## Thinking About Legal Arguments ##
+
+In our first unit of the course [(Weeks 1 to 3)](../../admin/schedule), our focus will be on *patterns of common law legal arguments*. By this I mean the normal or expected patterns of argument and counter-argument that we tend to get from common law lawyers and judges in courtroom settings and in legal decisions. As we will see, these patterns are like the basic building blocks of legal argument in the common law tradition and, once you learn to recognize them, you will see that they tend to repeat themselves again and again, in case after case.
+
+But before we begin to study the arguments that lawyers and judges make, I would like you to think about what kinds of everyday arguments *you* would make or expect to see when confronted with a problem about property. By starting here, we will be able to see some of the similarities and differences between the arguments of lawyers and non-lawyers.
+
+{{% callout note %}} 
+
+### Should people have a property right in their own cells once those cells are removed from their body?
+
+Don't worry for now about a precise definition of "property right" here — for now, think about this as a legal right to stop others from using your cells without your permission. Listen to the following *Radiolab* podcast as you consider how you would answer this question (yes/no/maybe) and the *arguments* you would use to support that answer. 
+
+Write down your answer and bring it to class. 
+
+<i class="fas fa-podcast"></i> [*Radiolab: Henrietta Lacks*](https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-extra-henrietta-lacks)
+
+<audio controls><source src="https://www.dropbox.com/s/e1riae58o4h67ys/radiolab_henriettalacks.mp3?raw=1" type="audio/mpeg"></audio>
+{{% /callout %}}
+
+We will discuss your answers when we meet this week, but we won't look at the *legal* answer(s) to this problem just yet. Instead, for the remainder of this week and next, we will develop a method for identifying common patterns of legal argument. We'll return to the problem of property in human cells and practice applying this method in Week 3. 
+
+## Reading Our First Case ##
 
 The first case we’ll read in this course — the Supreme Court of Canada’s decision in *Harrison v Carswell* — is about a labour dispute at a shopping mall in Winnipeg in the mid-1970s. That setting may not strike you as obviously important or exciting, but *Harrison* is arguably one of the Supreme Court's most important decisions for what it reveals about the central problems and debates in property law, and — more important still — for what it show us about *how* judges and lawyers engage in those debates using the patterns and practices of legal argument.
 
@@ -45,7 +62,25 @@ There are several layers here that we will peel away in order to fully appreciat
 
 Before you jump into the case as a whole, watch the short screencast below (click "*Learn to quickly review a case*") to start building a few essential strategies for reading *Harrison* and other complex cases in our course.
 
-{{< spoiler text="Learn to quickly review a case." >}}[This is a screencast]. {{< /spoiler >}}
+{{< spoiler text="Learn to quickly review a case." >}}[*Script/Outline* for recorded screencast:] 
+
+### Strategy for reading your first property case
+
+Throughout your first year, you will learn a number of different approaches to reading and analyzing cases, and for summarizing key points—a process we sometimes call "noting up the case". 
+
+But as you start to read your first property law case, I want to suggest a simple strategy for understanding and summarizing the case at a high level, before you read it more closely. This strategy can help you to keep the "big picture" of the case up front as you wade into its many details. 
+
+The strategy has three steps: (1) read the facts closely; (2) skip ahead to find out where each judge lands in their final decision; and (3) work through the case text in detail, paragraph by paragraph, stopping at after each main point or issue to reflect on what you've learned.
+
+Here are each of those steps in more detail:
+
+1. Read the facts to get a sense of what is going on. This includes the facts as presented by each judge writing a decision in the case. The first paragraph of Justice Dickson's decision makes this easy: there is enough info in this one paragraph to get a foothold on the case. You won't — and don't need to yet — understand everything going on here (for example, what is a trial "de novo"?), but that is fine. You can revisit questions and uncertainties later. Next, jump to Chief Justice Laskin's summary of the facts and notice the additional details and perspective you gain about the case. 
+
+2. Next, skim through both judgements in order to figure out where each judge is heading—that is, what result they ultimately want to reach. Here, you aren't worried about each judge's *reasons* for their decision; you just want to know where they end up. Having this out in front of you will help a lot when you try to make sense the reasoning in more detail later. [Show example for Dickson and Laskin]
+
+3. Read the case closely, paragraph by paragraph, pausing after each main point or issue. In your materials, I have provided prompts to flag good stopping points in the text, along with a few questions to focus your thinking. {{< /spoiler >}}
+
+After viewing the screencast above, complete steps one (*read the facts*) and two (*figure out where each judge is going*) of the analysis. Then test your knowledge with the following quiz.
 
 ## Practice: Case Review ##
 
@@ -53,10 +88,10 @@ Before you jump into the case as a whole, watch the short screencast below (clic
 
 ### Quiz
 
-After viewing the screencast above, complete steps one (*read the facts*) and two (*figure out where each judge is going*) of the analysis. Then test your knowledge with this quiz.
+
 <iframe src="https://opensourcelaw.limesurvey.net/666313" height="800"frameBorder="0"></iframe>{{% /callout %}}
 
-Once you've completed the quiz above, move on to step 3 of the case review strategy: read the full case as closely as possible. You will likely find some terms and concepts a little confusing or totally incomprehensible. This is completely normal. Try not to get too discouraged if you find that reading cases is frustrating at first. Keep going — this will get easier the more you practice, even if it feels like treading water for now. I encourage you to take the case in chunks, using the prompts along the way to pause your reading and take stock of what you're learning or finding it hard to understand.
+Once you've completed the quiz above, move on to step 3 of the case review strategy: read the full case as closely as possible. You will likely find some terms and concepts a little confusing; others you might find totally incomprehensible. This is completely normal. Try not to get too discouraged if you find that reading cases is frustrating at first. Keep going — this will get easier as you practice, even if it feels like treading water for now. I encourage you to take the case in chunks, using the prompts along the way to pause your reading and take stock of what you're learning or finding it hard to understand.
 
 ## *Harrison v Carswell*, [1976] 2 SCR 200 ##
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.pdf" target="_blank" rel="noopener">PDF</a>
@@ -212,7 +247,7 @@ Next week, when we return to *Harrison v Carswell* for a second reading of the c
 
 Here is another way of posing this challenge for you to think about before Week 2. In spite of everything the judges in *Harrison* seem to disagree about, they actually agree about a great many things. Justices Laskin and Dickson share a tremendous amount in common when it comes to the underlying *structure* and *style* of their arguments. Our first task is to describe this underlying structure. Only once you have come to appreciate what the judges share in common can you begin to grapple with the consequences of their different points of view.
 
-## Quick Check-out ##
+## Check-out ##
 
 Before you move on to other work, ask yourself if you've absorbed key points from this week with the flip-cards below (cursor over for the answer).
 
