@@ -2,32 +2,30 @@
 title: "Week 3 - Practicing the Analysis"
 linktitle: "Week 3"
 type: book
-date: "2021-05-11"
+date: "2021-05-13"
 weight: 4
 ---
 
-## Briefly Review What You Learned ##
+## Review What You Learned Last Week ##
 
-This week, you will continue to practice the analysis of legal arguments that we begin to develop in Week 2.
-
-Before you read the material for this week, take a moment to [refresh your memory of the different argument types](../week2/#argument-bites-and-argument-types) we worked to identify last week in *Harrison v Carswell*. 
+This week, you will continue to practice the analysis of legal arguments that we began to develop in Week 2. Before getting into the material for this week, it is worth taking a moment to refresh your memory of the different [argument types](../week2/#argument-bites-and-argument-types) we worked to identify last week in *Harrison v Carswell*.
 
 ## Property in Your Cells ##
 
-We will be using the same argument types from last week to practice identifying legal arguments in a case called *Moore v Regents of California*. But before we turn to this case, recall the [*Radiolab* podcast on Henrietta Lacks](../week1/#thinking-about-legal-arguments) that you listened to at the beginning of Week 1. 
+We will be using the same argument types from last week to practice analyzing different legal arguments in a case called *Moore v Regents of University of California*. This case brings us back to the issue I asked you to consider at the beginning of Week 1: **Should people have a property right in their own cells once those cells are removed from their body?**
 
-After listening to that podcast, I had asked you to answer a question — ***Should people have a property right in their own cells once those cells are removed from their body?*** — and to write down your arguments to support that answer. 
+Recall that you listened to a [Radiolab podcast on Henrietta Lacks]((../week1/#thinking-about-legal-arguments)). I then asked you to write down your answer to the question above and to identify what arguments you would use to support your answer.
 
-Now, I would like you to consider how the arguments you wrote down compare to the stereotypical argument types we encountered in *Harrison*. Were any of your arguments "legal" arguments? Where any of them non-legal arguments? 
+In *Moore*, you will see how a common law court — here, the Supreme Court of California — answered this question about property in a person's cells. The plaintiff, Moore, sues his doctor and others in a cause of action called "conversion", essentially claiming that Moore's cells are his property even after they have been removed from his body. In two competing judgements, Justices Panelli and Mosk offer alternative answers to our question.
 
-
+We are coming back to the question of property in cells at this point in our course because that question asks you to reflect on what you have learned so far about analyzing the structure of legal arguments. Most likely, you will see that your answer to the question and your reasons from Week 1 share some similarities with those of the Court in *Moore*, but also some important differences. Were your reasons from Week 1 the types of stereotypical legal arguments we would expect to see a court making in a case like *Moore*? Is your understanding of what counts as a valid "legal" argument starting to change? 
 
 
 
 ## *Moore v Regents of University of California*, 51 Cal.3d 120 ##
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.pdf" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/moore.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/moore.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/moore.pdf" target="_blank" rel="noopener">PDF</a>
 
-Panelli, Justice.
+*Panelli, J.* ---
 
 I. Introduction
 
@@ -62,6 +60,12 @@ II. Facts
 III. Discussion
 
 *A. Breach of Fiduciary Duty and Lack of Informed Consent*
+
+[*The Court first discusses Moore's claim that Dr. Golde breached his fiduciary duty to Moore because the doctor failed to disclose his economic interests in obtaining the cells. So, although Golde obtained Moore's consent to conduct the medical procedures he underwent, he failed to obtain Moore's informed consent*. 
+
+*You should note this first cause of action, but you do not need to read this portion of the judgement on fiduciary duty — we will focus on Moore's second claim in conversion — but it is excerpted below FYI.*]
+
+{{< spoiler text="Moore's Claim to Breach of Fiduciary Duty" >}}
 
 [14] Moore repeatedly alleges that Golde failed to disclose the extent of his research and economic interests in Moore’s cells[^fn9] before obtaining consent to the medical procedures by which the cells were extracted. These allegations, in our view, state a cause of action against Golde for invading a legally protected interest of his patient. This cause of action can properly be characterized either as the breach of a fiduciary duty to disclose facts material to the patient’s consent or, alternatively, as the performance of medical procedures without first having obtained the patient’s informed consent.
 
@@ -107,7 +111,7 @@ III. Discussion
 
 [33] The Court of Appeal did not hold, explicitly or implicitly, that Moore’s secondary-liability allegations were sufficient as against any defendant. The court did hold that Moore had stated a cause of action against the Regents and Quan. However, the court did not reach that conclusion on the basis of secondary liability. Instead, drawing no distinctions between the defendants, the court held simply that each defendant was primarily liable for conversion.[^fn19]Because no court has yet addressed the Regents’ and Quan’s secondary liability and because the superior court will need to consider other issues on remand, there is no need to address these issues at this time.[^fn20]
 
-[34] With respect to Genetics Institute and Sandoz, the situation is slightly different. The Court of Appeal mentioned Moore’s secondary-liability allegations against these defendants but expressed no opinion as to their sufficiency. Instead, as to these defendants the court merely reversed the superior court’s order “for failure to grant leave to amend.” Our affirmance of this part of the Court of Appeal’s decision will leave Moore free to attempt, once again, to allege that Genetics Institute and Sandoz are secondarily liable for Golde’s torts.
+[34] With respect to Genetics Institute and Sandoz, the situation is slightly different. The Court of Appeal mentioned Moore’s secondary-liability allegations against these defendants but expressed no opinion as to their sufficiency. Instead, as to these defendants the court merely reversed the superior court’s order “for failure to grant leave to amend.” Our affirmance of this part of the Court of Appeal’s decision will leave Moore free to attempt, once again, to allege that Genetics Institute and Sandoz are secondarily liable for Golde’s torts.{{< /spoiler >}}
 
 *B. Conversion*
 
@@ -118,6 +122,10 @@ III. Discussion
 [37] We have recognized that, when the proposed application of a very general theory of liability in a new context raises important policy concerns, it is especially important to face those concerns and address them openly. (Cf. *Nally v. Grace Community Church*, *supra*, 47 Cal.3d 278, 291–300, 253 Cal.Rptr. 97, 763 P.2d 948[declining to expand negligence law to encompass theory of “clergyman malpractice”];*Foley v. Interactive Data Corp.* (1988) 47 Cal.3d 654, 694–700, 254 Cal.Rptr. 211, 765 P.2d 373 [declining to apply tort remedies for breach of the covenant of good faith in the employment context];*Brown v. Superior Court*(1988) 44 Cal.3d 1049, 1061–1066, 245 Cal.Rptr. 412, 751 P.2d 470 [declining to apply strict products liability to pharmaceutical manufacturers].) Moreover, we should be hesitant to “impose [new tort duties] when to do so would involve complex policy decisions” (*Nally v. Grace Community Church*, *supra*, 47 Cal.3d at p. 299, 253 Cal.Rptr. 97, 763 P.2d 948), especially when such decisions are more appropriately the subject of legislative deliberation and resolution. (See *Foley v. Interactive Data Corp.*, *supra*, 47 Cal.3d at p. 694 & fn. 31, 254 Cal.Rptr. 211, 765 P.2d 373.) This certainly is not to say that the applicability of common law torts is limited to the historical or factual contexts of existing cases. But on occasions when we have opened or sanctioned new areas of tort liability, we “have noted that the ‘wrongs and injuries involved were both comprehensible and assessable within the existing judicial framework.’” (*Nally v. Grace Community Church*, *supra*, 47 Cal.3d at p. 298, 253 Cal.Rptr. 97, 763 P.2d 948, quoting *Peter W. v. San Francisco Unified Sch. Dist.* (1976) 60 Cal.App.3d 814, 824, 131 Cal.Rptr. 854.)
 
 [38] Accordingly, we first consider whether the tort of conversion clearly gives Moore a cause of action under existing law. We do not believe it does. Because of the novelty of Moore’s claim to own the biological materials at issue, to apply the theory of conversion in this context would frankly have to be recognized as an extension of the theory. Therefore, we consider next whether it is advisable to extend the tort to this context.
+
+{{< spoiler text="Mapping Argument Bites in This Case" >}}As we did in Week 2 with *Harrison v Carswell*, we will spend time in class this week identifying and linking the argument bites and argument types in *Moore*. One good way for you to prepare for class this week is to colour-code or highlight the argument bites in *Moore* just as I did for you in *Harrison* in Week 2. You can download the case as a text file in order to do this on your own computer ([RTF](/cases/moore.rtf) or [DOCX](/cases/moore.docx)).
+
+**HINT: there are six different argument bites in *Moore*. It is easiest to identify these different arguments in [Justice Mosk's decision](#mosk) because he conveniently enumerates each argument as he responds, point by point, to Justice Panelli. I suggest that you start by reading the full judgement start to finish, then go back through the case to highlight each argument bite using Justice Mosk's decision as a guide.**{{< /spoiler >}}
 
 1. Moore’s Claim Under Existing Law
 
@@ -177,9 +185,13 @@ III. Discussion
 
 IV. Disposition
 
+{{< spoiler text="Concurring Judgments" >}}
+
+[You do not need to read these concurring reasons — skip right to Justice Mosk's decision in dissent.]
+
 [65] The decision of the Court of Appeal is affirmed in part and reversed in part. The case is remanded to the Court of Appeal, which shall direct the superior court to: (1) overrule Golde’s demurrers to the causes of action for breach of fiduciary duty and lack of informed consent; (2) sustain, with leave to amend, the demurrers of the Regents, Quan, Sandoz, and Genetics Institute to the purported causes of action for breach of fiduciary duty and lack of informed consent; (3) sustain, without leave to amend, all defendants’ demurrers to the purported cause of action for conversion; and (4) hear and determine all defendants’ remaining demurrers.
 
-**Lucas, C.J.**, and **Eagleson** and **Kennard, JJ.**, concur.
+**Lucas, C.J.**, and **Eagleson** and **Kennard, JJ.**, concur. 
 
 **Arabian, Justice**, concurring.
 
@@ -258,9 +270,11 @@ III.
 
 [98] This last point reveals perhaps the most serious flaw in the majority’s public policy analysis in this case. It is certainly arguable that, as a matter of policy or morality, it would be wiser to prohibit any private individual or entity from profiting from the fortuitous value that adheres in a part of a human body, and instead to require all valuable excised body parts to be deposited in a public repository which would make such materials freely available to all scientists for the betterment of society as a whole. The Legislature, if it wished, could create such a system, as it has done with respect to organs that are donated for transplantation. (See § 7155, subd. (a); Pen.Code, § 367f. See also 42 U.S.C. § 274e.) To date, however, the Legislature has not adopted such a system for organs that are to be used for research or commercial purposes,[^fn57] and the majority opinion, despite some oblique suggestions to the contrary (see maj. opn., *ante*, pp. 161–162 of 271 Cal.Rptr., pp. 494–495 of 793 P.2d), emphatically does not do so by its holding in this case. Justice Arabian’s concurring opinion suggests that the majority’s conclusion is informed by the precept that it is immoral to sell human body parts for profit. (See conc. opn., *ante*, pp. 165–166 of 271 Cal.Rptr., pp. 498–499 of 793 P.2d.) But the majority’s rejection of plaintiff’s conversion cause of action does not mean that body parts may not be bought or sold for research or commercial purposes or that no private individual or entity may benefit economically from the fortuitous value of plaintiff’s diseased cells. Far from elevating these biological materials above the marketplace, the majority’s holding simply bars *plaintiff*, the source of the cells, from obtaining the benefit of the cells’ value, but permits *defendants*, who allegedly obtained the cells from plaintiff by improper means, to retain and exploit the full economic value of their ill-gotten gains free of their ordinary common law liability for conversion.
 
-[99] Because I conclude that plaintiff’s complaint states a cause of action for conversion under traditional common law principles, I dissent from the majority opinion insofar as it rejects such a claim.
+[99] Because I conclude that plaintiff’s complaint states a cause of action for conversion under traditional common law principles, I dissent from the majority opinion insofar as it rejects such a claim.{{< /spoiler >}}
 
-**Mosk, Justice**, dissenting.
+<span id="mosk"></span>
+
+**Mosk, J.**, dissenting ---
 
 [100] I dissent.
 
@@ -392,6 +406,16 @@ III.
  
 
 
+
+## Looking Ahead to Unit 2 ##
+
+Having spent some time now developing a vocabulary to analyze legal arguments (using the concepts of argument bites and argument types), you might be wondering how we can ever hope to know what the "correct" answer is to any question in property law. If argument bites always come in pairs — if we can always predict the stereotypical counter-argument to any legal argument — how does any party even win out in court? 
+
+The answer to that question will occupy us for the remainder of our course throughout the year. In Week 1, I introduced the idea that we can think about the structure of legal arguments at two levels by drawing an analogy to language: there is the level of legal vocabulary (the argument types we've been working with so far) and the deeper level of legal grammar and style. In Unit 2, we will begin to develop a historical understanding of this deeper structure of property law in Canada, starting with the doctrine of first possession. 
+
+## Check Out ##
+
+{{< spoiler text="Footnotes" >}}<$--ENDNOTES-->{{< /spoiler >}}
 
 [^fn1]: *Phillips v. Desert Hospital Dist.* (1989) 49 Cal.3d 699, 702, 263 Cal.Rptr. 119, 780 P.2d 349; *Blank v. Kirwan* (1985) 39 Cal.3d 311, 318, 216 Cal.Rptr. 718, 703 P.2d 58; *Tameny v. Atlantic Richfield Co.* (1980) 27 Cal.3d 167, 170, 164 Cal.Rptr. 839, 610 P.2d 1330.
 
